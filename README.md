@@ -4,9 +4,8 @@
 
 ### `$ whoami`
 
-Hi, I'm **Yuchan**, an undergraduate at **UNIST**.
+I'm **Yuchan**, an undergraduate at **UNIST**.
 
-I'm interested in **AI, Computer Vision, and Robotics**, especially how intelligent systems perceive and interact with the physical world.
 
 ### `$ ls ~/projects`
 
