@@ -2,10 +2,6 @@
   <img src="./assets/header.svg" alt="Yuchan — UNIST Undergraduate. AI, Computer Vision, Robotics." width="100%" />
 </p>
 
-### `$ whoami`
-
-I'm **Yuchan**, an undergraduate at **UNIST**.
-
 
 ### `$ ls ~/projects`
 
