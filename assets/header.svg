@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="380" viewBox="0 0 1000 380" role="img" aria-labelledby="title desc">
+  <title id="title">Yuchan — UNIST Undergraduate</title>
+  <desc id="desc">A dark terminal with green and cyan accents. Interests: AI, Computer Vision, Robotics.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#17312b" stroke-width=".6"/></pattern>
+    <linearGradient id="edge"><stop stop-color="#67f5a1"/><stop offset="1" stop-color="#36dce2"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="998" height="378" rx="16" fill="#0a1016" stroke="#294139"/>
+  <path d="M17 1H983A16 16 0 0 1 999 17V45H1V17A16 16 0 0 1 17 1" fill="#141e25"/>
+  <circle cx="25" cy="23" r="5" fill="#ff6b70"/><circle cx="43" cy="23" r="5" fill="#eac66a"/><circle cx="61" cy="23" r="5" fill="#67f5a1"/>
+  <text x="500" y="28" text-anchor="middle" fill="#8da49f" font-family="monospace" font-size="12">yuchan@workspace — ~/profile</text>
+  <rect x="1" y="46" width="998" height="311" fill="url(#grid)" opacity=".55"/>
+  <g font-family="'DejaVu Sans Mono',Consolas,monospace">
+    <text x="42" y="90" font-size="14"><tspan fill="#67f5a1">yuchan@workspace</tspan><tspan fill="#8da49f">:~$ ./init</tspan></text>
+    <text x="42" y="127" fill="#8da49f" font-size="13">[ OK ]  Loading profile...</text>
+    <text x="38" y="204" fill="#effbf5" font-size="66" font-weight="bold" letter-spacing="-3">YUCHAN<tspan fill="#67f5a1">_</tspan></text>
+    <text x="43" y="240" fill="#9fb2bd" font-size="17">Undergraduate @ UNIST</text>
+    <text x="43" y="292" fill="#67f5a1" font-size="15">AI <tspan fill="#4f6867">/</tspan> COMPUTER VISION <tspan fill="#4f6867">/</tspan> ROBOTICS</text>
+    <text x="43" y="333" fill="#728f8c" font-size="12">&gt; Perception. Intelligence. Action.</text>
+  </g>
+  <g transform="translate(804 190)" fill="none">
+    <circle r="91" stroke="#1c3d38" stroke-dasharray="3 9"/>
+    <circle r="71" stroke="#31534c"/>
+    <path d="M-57-27V-48H-36M36-48H57V-27M57 27V48H36M-36 48H-57V27" stroke="url(#edge)" stroke-width="3"/>
+    <path d="M-38 0Q0-48 38 0Q0 48-38 0Z" stroke="#67f5a1" stroke-width="2"/>
+    <circle r="12" stroke="#36dce2" stroke-width="2"/>
+    <circle r="4" fill="#36dce2"/>
+    <path d="M-91 0H-77M77 0H91M0-91V-77M0 77V91" stroke="#67f5a1"/>
+    <path d="M-55 0H55" stroke="#67f5a1" opacity=".65">
+      <animateTransform attributeName="transform" type="translate" values="0 -44;0 44;0 -44" dur="6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <text x="804" y="314" text-anchor="middle" fill="#36dce2" font-family="monospace" font-size="11" letter-spacing="2">PERCEPTION → ACTION</text>
+  <path d="M20 378H980" stroke="url(#edge)" stroke-width="2"/>
+</svg>
