@@ -1,6 +1,6 @@
 # Yuchan Cho
 
-Undergraduate at **UNIST CSE**.
+🎓 Undergraduate @ **UNIST CSE**.
 
 
 
